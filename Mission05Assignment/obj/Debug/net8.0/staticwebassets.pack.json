@@ -13,12 +13,24 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/images/acoustic.jpg",
+      "PackagePath": "staticwebassets/images/acoustic.jpg"
+    },
+    {
+      "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/images/acousticguitar.jpg",
+      "PackagePath": "staticwebassets/images/acousticguitar.jpg"
+    },
+    {
       "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/images/camera.jpg",
       "PackagePath": "staticwebassets/images/camera.jpg"
     },
     {
       "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/images/landscape.jpg",
       "PackagePath": "staticwebassets/images/landscape.jpg"
+    },
+    {
+      "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/images/silhouette.jpg",
+      "PackagePath": "staticwebassets/images/silhouette.jpg"
     },
     {
       "Id": "/Users/persianprince/RiderProjects/IS413/Mission05Assignment/wwwroot/js/calculator.js",

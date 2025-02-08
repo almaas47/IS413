@@ -28,3 +28,4 @@
 /Users/persianprince/RiderProjects/IS413/Mission05Assignment/obj/Debug/net8.0/Mission05Assignment.pdb
 /Users/persianprince/RiderProjects/IS413/Mission05Assignment/obj/Debug/net8.0/Mission05Assignment.genruntimeconfig.cache
 /Users/persianprince/RiderProjects/IS413/Mission05Assignment/obj/Debug/net8.0/ref/Mission05Assignment.dll
+/Users/persianprince/RiderProjects/IS413/Mission05Assignment/obj/Debug/net8.0/Mission05Assignment.sourcelink.json

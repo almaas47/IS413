@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.small-img {
+  height: 300px; /* Set the height */
+  width: auto; /* Keeps the original aspect ratio */
+  object-fit: cover; /* Ensures it fills the space nicely */
+}
